@@ -89,53 +89,8 @@ Personal portfolio showcasing projects and experience.
 ## GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yash161&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash161&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yash161&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yash161&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yash161&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yash161&theme=tokyonight&hide_border=true)
 </div>
 
-## What I'm Working On
-
-- Building production-grade automation tools and CI/CD pipelines
-- Researching advanced topics in computer science at Cal State LA
-- Contributing to open-source DevOps and cloud infrastructure projects
-- Developing full-stack applications with AI/ML integration
-- Exploring cloud-native architectures and serverless computing
-
-## Areas of Expertise
-
-- **DevOps & Automation**: CI/CD pipelines, infrastructure as code, deployment automation
-- **Cloud Engineering**: AWS services, cloud architecture, scalable system design
-- **Data Engineering**: ETL pipelines, data warehousing, real-time data processing
-- **Machine Learning & NLP**: Embedding models, sentiment analysis, topic modeling
-- **IoT & Sensor Networks**: Sensor fusion, real-time monitoring, data analysis
-
-## Certifications
-
-- AWS Academy Machine Learning Foundations
-- Hands On Essentials - Data Warehouse
-- IT Academy Cloud and Virtualization Concepts
-- Introduction to SQL & Joining Data in SQL
-
-## Let's Connect
-
-I'm actively seeking **New Grad Software Engineering, DevOps, and Cloud Data Engineering roles** starting Summer 2026.
-
-Always open to discussing technology, automation, cloud systems, or collaboration opportunities.
-
-- **Email**: [yashshah3698@gmail.com](mailto:yashshah3698@gmail.com)
-- **LinkedIn**: [linkedin.com/in/yashkeyurshah](https://linkedin.com/in/yashkeyurshah)
-- **Location**: Los Angeles, California
-
----
-
-<div align="center">
-  
-From [yash161](https://github.com/yash161) | Building systems that don't break, one commit at a time
-
-**"I build systems that don't break, fix slow pipelines, and turn manual work into simple automation."**
-
-</div>
